@@ -1,0 +1,4 @@
+repository "MyGame@HeadSmasher@cloud"
+  path "/"
+    br "/main"
+    co "/main"
